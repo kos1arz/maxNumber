@@ -1,4 +1,4 @@
-# maxNumber
+# Max number
 1. PATH
 /form (example: http://localhost:8000/form)
 
