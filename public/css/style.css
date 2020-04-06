@@ -1,0 +1,36 @@
+body {
+    background-color: #767D92 !important;
+    font-weight: 700 !important;
+}
+h1 {
+    text-align: center;
+    color: #081B33;
+    margin-bottom: 30px !important;
+}
+
+.form-group {
+    width: 300px;
+    margin: auto;
+}
+
+#max_number {
+    margin-bottom: 30px !important;
+}
+
+.form-group label {
+    display: none;
+}
+
+.btn-primary {
+    background-color: #081B33 !important;
+    border-color: #081B33 !important;
+}
+
+.table .thead-dark th {
+    background-color: #081B33 !important;
+    border-color: #081B33 !important;
+}
+
+.table-bordered td {
+    border: 1px solid #081B33 !important;
+}
